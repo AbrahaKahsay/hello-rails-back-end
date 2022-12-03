@@ -25,9 +25,8 @@ https://github.com/AbrahaKahsay/hello-rails-back-end.git
 - rails db:reset
 
 ## Starting up the webserver
-
-- rails s -p 3001
-
+- rails s -p 3001 (for rails)
+- npm start (for react)
 ## Generate schema
 
 - rails db:migrate
